@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e29cd44e2c7051aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5aada36911e401a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "417c2214f9e36c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Hacking/Authentication Bypass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2c013f5adbe2359",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e21c82fffcdb85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72be607563718fad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "836a73fd2fd6dc22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "260fbce3c43c798c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3436b67e43e3e978",
+    "type": "split",
+    "children": [
+      {
+        "id": "6494904b2cea4d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a63bfb2a252e510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Hacking/Authentication Bypass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ac5de4b3d7626d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Hacking/Authentication Bypass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "900942e2ef434957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea540efd3ac62e9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Hacking/Authentication Bypass.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "417c2214f9e36c4e",
+  "lastOpenFiles": [
+    "Web Hacking/Content Discovery.md",
+    "Web Hacking/Authentication Bypass.md",
+    "Web Hacking/Subdomain Enumeration.md",
+    "Pentesting Fundamentals/Pentesting.md",
+    "Web Hacking",
+    "Pentesting Fundamentals"
+  ]
+}
