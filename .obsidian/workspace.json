@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Hacking/Authentication Bypass.md",
+                "file": "Web Hacking/IDOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Hacking/Authentication Bypass.md",
+                "file": "Web Hacking/IDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Hacking/Authentication Bypass.md",
+                "file": "Web Hacking/IDOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Hacking/Authentication Bypass.md"
+                "file": "Web Hacking/IDOR.md"
               }
             }
           }
@@ -148,9 +149,13 @@
   },
   "active": "417c2214f9e36c4e",
   "lastOpenFiles": [
-    "Web Hacking/Content Discovery.md",
+    "Web Hacking/Attachments/idor1.png",
+    "Web Hacking/Attachments/Pasted image 20230915193907.png",
+    "Web Hacking/IDOR.md",
+    "Web Hacking/Attachments",
     "Web Hacking/Authentication Bypass.md",
     "Web Hacking/Subdomain Enumeration.md",
+    "Web Hacking/Content Discovery.md",
     "Pentesting Fundamentals/Pentesting.md",
     "Web Hacking",
     "Pentesting Fundamentals"
