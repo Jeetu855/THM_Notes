@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc7c586dbabafb6",
+        "id": "df7d2fa7851f2684",
         "type": "tabs",
         "children": [
           {
-            "id": "a349cacd9c37f577",
+            "id": "011e53b257d50c21",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Web Hacking/Attachments/onloadAlert.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Hacking/Attachments/onloadAlert.png",
+                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Hacking/Attachments/onloadAlert.png",
+                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Hacking/Attachments/onloadAlert.png"
+                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png"
               }
             }
           },
@@ -154,19 +152,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a349cacd9c37f577",
+  "active": "72be607563718fad",
   "lastOpenFiles": [
+    "Web Hacking/Attachments/inputsanitisation.png",
+    "Web Hacking/Attachments/commandInjection2.png",
+    "Web Hacking/Attachments/commandInjection1.png",
+    "Web Hacking/Command Injection.md",
+    "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
+    "Web Hacking/Attachments/onloadAlert.png",
     "Web Hacking/Attachments/DOM.png",
     "Web Hacking/Attachments/storedXSS.png",
     "Web Hacking/Attachments/XSS.png",
     "Web Hacking/Attachments/reflectedXSS.png",
     "Web Hacking/Attachments/xssBasic.png",
-    "Web Hacking/Attachments/ssrfchallenge.png",
-    "Web Hacking/Attachments/findSSRF4.png",
-    "Web Hacking/Attachments/findSSRF3.png",
-    "Web Hacking/Attachments/findSSRF2.png",
-    "Web Hacking/Attachments/findSSRF1.png",
-    "Web Hacking/Attachments/ssrf2.png",
     "Web Hacking/XSS.md",
     "Web Hacking/SSRF.md",
     "Web Hacking/File Inclusion.md",
