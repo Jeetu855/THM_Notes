@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "df7d2fa7851f2684",
+        "id": "0dcafdac709b86c9",
         "type": "tabs",
         "children": [
           {
-            "id": "011e53b257d50c21",
+            "id": "c47ad07be346af28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Hacking/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
+                "file": "Web Hacking/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
+                "file": "Web Hacking/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Hacking/Attachments/protecting AgainstCommandInjection.png"
+                "file": "Web Hacking/SQL Injection.md"
               }
             }
           },
@@ -152,8 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72be607563718fad",
+  "active": "c47ad07be346af28",
   "lastOpenFiles": [
+    "Web Hacking/Attachments/Databsetable.png",
+    "Web Hacking/Attachments/databases.png",
+    "Web Hacking/SQL Injection.md",
+    "Web Hacking/Attachments/outOfBandSQLI.png",
     "Web Hacking/Attachments/inputsanitisation.png",
     "Web Hacking/Attachments/commandInjection2.png",
     "Web Hacking/Attachments/commandInjection1.png",
@@ -162,9 +171,6 @@
     "Web Hacking/Attachments/onloadAlert.png",
     "Web Hacking/Attachments/DOM.png",
     "Web Hacking/Attachments/storedXSS.png",
-    "Web Hacking/Attachments/XSS.png",
-    "Web Hacking/Attachments/reflectedXSS.png",
-    "Web Hacking/Attachments/xssBasic.png",
     "Web Hacking/XSS.md",
     "Web Hacking/SSRF.md",
     "Web Hacking/File Inclusion.md",
