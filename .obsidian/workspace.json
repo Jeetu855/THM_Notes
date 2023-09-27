@@ -11,9 +11,11 @@
             "id": "c47ad07be346af28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "BurpSuite/Attachments/repeaterInspector.png"
+                "file": "Network Security/Passive Reconnaissance.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurpSuite/Attachments/repeaterInspector.png",
+                "file": "Network Security/Passive Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BurpSuite/Attachments/repeaterInspector.png",
+                "file": "Network Security/Passive Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BurpSuite/Attachments/repeaterInspector.png"
+                "file": "Network Security/Passive Reconnaissance.md"
               }
             }
           },
@@ -155,14 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72be607563718fad",
+  "active": "c47ad07be346af28",
   "lastOpenFiles": [
+    "Network Security/Attachments/TTL2.png",
+    "Network Security/Attachments/TTL1.png",
+    "Network Security/Active Reconnaissance.md",
+    "Network Security/Attachments",
+    "Network Security/Passive Reconnaissance.md",
+    "BurpSuite/Attachments/repeaterInspector.png",
+    "Network Security",
     "BurpSuite/Attachments/proxy.png",
     "BurpSuite/Extensions.md",
     "BurpSuite/Other Modules.md",
     "BurpSuite/Intruder.md",
     "BurpSuite/Repeater.md",
-    "BurpSuite/Attachments/repeaterInspector.png",
     "BurpSuite/Basics.md",
     "BurpSuite/Attachments",
     "Web Hacking/SQL Injection.md",
@@ -174,8 +181,6 @@
     "Web Hacking/Attachments/commandInjection2.png",
     "Web Hacking/Attachments/commandInjection1.png",
     "Web Hacking/Command Injection.md",
-    "Web Hacking/Attachments/protecting AgainstCommandInjection.png",
-    "Web Hacking/Attachments/onloadAlert.png",
     "Web Hacking/XSS.md",
     "Web Hacking/SSRF.md",
     "Web Hacking/File Inclusion.md",
