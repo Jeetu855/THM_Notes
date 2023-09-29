@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Passive Reconnaissance.md",
+                "file": "Network Security/Nmap Post Port Scans.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Passive Reconnaissance.md",
+                "file": "Network Security/Nmap Post Port Scans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Passive Reconnaissance.md",
+                "file": "Network Security/Nmap Post Port Scans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Passive Reconnaissance.md"
+                "file": "Network Security/Nmap Post Port Scans.md"
               }
             }
           },
@@ -158,14 +159,35 @@
   },
   "active": "c47ad07be346af28",
   "lastOpenFiles": [
-    "Network Security/Attachments/TTL2.png",
-    "Network Security/Attachments/TTL1.png",
+    "Network Security/Attachments/zombie_idle3.png",
+    "Network Security/Attachments/zombie_idle2.png",
+    "Network Security/Attachments/zombi_idle.png",
+    "Network Security/Attachments/Decoy.png",
+    "Network Security/Attachments/spoofingIp.png",
+    "Network Security/Attachments/customScan.png",
+    "Network Security/Nmap Post Port Scans.md",
+    "Network Security/Nmap Advanced Port Scans.md",
+    "Network Security/Attachments/windowscan.png",
+    "Network Security/Attachments/Pasted image 20230929203350.png",
+    "Network Security/Attachments/TCPACKscan.png",
+    "Network Security/Attachments/MaimonScan.png",
+    "Network Security/Nmap Live Host Discovery.md",
+    "Network Security/Nmap Basic Ports Scan.md",
     "Network Security/Active Reconnaissance.md",
-    "Network Security/Attachments",
+    "Web Hacking/Command Injection.md",
+    "Web Hacking/XSS.md",
+    "Web Hacking/SSRF.md",
+    "Web Hacking/File Inclusion.md",
+    "Web Hacking/IDOR.md",
+    "Web Hacking/Authentication Bypass.md",
+    "Web Hacking/Subdomain Enumeration.md",
+    "Web Hacking/Content Discovery.md",
     "Network Security/Passive Reconnaissance.md",
-    "BurpSuite/Attachments/repeaterInspector.png",
+    "Shodan/Shodan.io.md",
+    "Shodan/Attachments",
+    "Shodan",
+    "Network Security/Attachments",
     "Network Security",
-    "BurpSuite/Attachments/proxy.png",
     "BurpSuite/Extensions.md",
     "BurpSuite/Other Modules.md",
     "BurpSuite/Intruder.md",
@@ -174,21 +196,7 @@
     "BurpSuite/Attachments",
     "Web Hacking/SQL Injection.md",
     "BurpSuite",
-    "Web Hacking/Attachments/Databsetable.png",
-    "Web Hacking/Attachments/databases.png",
-    "Web Hacking/Attachments/outOfBandSQLI.png",
-    "Web Hacking/Attachments/inputsanitisation.png",
-    "Web Hacking/Attachments/commandInjection2.png",
-    "Web Hacking/Attachments/commandInjection1.png",
-    "Web Hacking/Command Injection.md",
-    "Web Hacking/XSS.md",
-    "Web Hacking/SSRF.md",
-    "Web Hacking/File Inclusion.md",
-    "Web Hacking/IDOR.md",
     "Web Hacking/Attachments",
-    "Web Hacking/Authentication Bypass.md",
-    "Web Hacking/Subdomain Enumeration.md",
-    "Web Hacking/Content Discovery.md",
     "Pentesting Fundamentals/Pentesting.md",
     "Web Hacking",
     "Pentesting Fundamentals"
