@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Nmap Post Port Scans.md",
+                "file": "Network Security/Protocols and Servers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Nmap Post Port Scans.md",
+                "file": "Network Security/Protocols and Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Nmap Post Port Scans.md",
+                "file": "Network Security/Protocols and Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Nmap Post Port Scans.md"
+                "file": "Network Security/Protocols and Servers.md"
               }
             }
           },
@@ -159,18 +158,20 @@
   },
   "active": "c47ad07be346af28",
   "lastOpenFiles": [
-    "Network Security/Attachments/zombie_idle3.png",
-    "Network Security/Attachments/zombie_idle2.png",
-    "Network Security/Attachments/zombi_idle.png",
-    "Network Security/Attachments/Decoy.png",
-    "Network Security/Attachments/spoofingIp.png",
-    "Network Security/Attachments/customScan.png",
+    "Network Security/Attachments/ftp.png",
+    "Network Security/Protocols and Servers.md",
+    "Pasted image 20231001005749.png.md",
+    "Network Security/Attachments/smtppop3imap.png",
+    "Network Security/Attachments/sslhandshake.png",
+    "Network Security/Attachments/tls.png",
+    "Network Security/Attachments/mitm.png",
+    "Network Security/Attachments/ciaDAD.png",
+    "Network Security/Attachments/mail.png",
+    "Network Security/Attachments/Pasted image 20231001005749.png",
+    "Network Security/Attachments/Pasted image 20231001005744.png",
+    "Network Security/Protocols and Servers 2.md",
     "Network Security/Nmap Post Port Scans.md",
     "Network Security/Nmap Advanced Port Scans.md",
-    "Network Security/Attachments/windowscan.png",
-    "Network Security/Attachments/Pasted image 20230929203350.png",
-    "Network Security/Attachments/TCPACKscan.png",
-    "Network Security/Attachments/MaimonScan.png",
     "Network Security/Nmap Live Host Discovery.md",
     "Network Security/Nmap Basic Ports Scan.md",
     "Network Security/Active Reconnaissance.md",
