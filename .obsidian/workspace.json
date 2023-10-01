@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/Protocols and Servers.md",
+                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3436b67e43e3e978",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/Protocols and Servers.md",
+                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/Protocols and Servers.md",
+                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/Protocols and Servers.md"
+                "file": "Vulnerability Research/Exploit Vulnerabilities.md"
               }
             }
           },
@@ -156,11 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c47ad07be346af28",
+  "active": "72be607563718fad",
   "lastOpenFiles": [
-    "Network Security/Attachments/ftp.png",
-    "Network Security/Protocols and Servers.md",
     "Pasted image 20231001005749.png.md",
+    "Vulnerability Research/Exploit Vulnerabilities.md",
+    "Vulnerability Research/Vulnerabilities 101.md",
+    "Network Security/Protocols and Servers.md",
+    "Vulnerability Research",
+    "Network Security/Attachments/ftp.png",
     "Network Security/Attachments/smtppop3imap.png",
     "Network Security/Attachments/sslhandshake.png",
     "Network Security/Attachments/tls.png",
@@ -198,7 +202,6 @@
     "Web Hacking/SQL Injection.md",
     "BurpSuite",
     "Web Hacking/Attachments",
-    "Pentesting Fundamentals/Pentesting.md",
     "Web Hacking",
     "Pentesting Fundamentals"
   ]
