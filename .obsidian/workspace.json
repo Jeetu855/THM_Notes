@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit/Meterpreter.md",
+                "file": "Privilege Escalation/Windows Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit/Meterpreter.md",
+                "file": "Privilege Escalation/Windows Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit/Meterpreter.md",
+                "file": "Privilege Escalation/Windows Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit/Meterpreter.md"
+                "file": "Privilege Escalation/Windows Privilege Escalation.md"
               }
             }
           },
@@ -157,12 +157,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c47ad07be346af28",
+  "active": "72be607563718fad",
   "lastOpenFiles": [
-    "Metasploit/Exploitation.md",
-    "Metasploit/Meterpreter.md",
-    "Network Security/Protocols and Servers.md",
+    "Privilege Escalation/Linux Privilege Escalation.md",
+    "Privilege Escalation/Windows Privilege Escalation.md",
+    "Privilege Escalation/Attachments/stableShell.png",
+    "Privilege Escalation/What the Shell.md",
     "Metasploit/Introduction.md",
+    "Metasploit/Meterpreter.md",
+    "Metasploit/Exploitation.md",
+    "Privilege Escalation/Attachments",
+    "Privilege Escalation",
+    "Network Security/Protocols and Servers.md",
     "Vulnerability Research/Exploit Vulnerabilities.md",
     "Metasploit",
     "Pasted image 20231001005749.png.md",
@@ -192,17 +198,11 @@
     "Web Hacking/Subdomain Enumeration.md",
     "Web Hacking/Content Discovery.md",
     "Network Security/Passive Reconnaissance.md",
-    "Shodan/Shodan.io.md",
     "Shodan/Attachments",
     "Shodan",
     "Network Security/Attachments",
     "Network Security",
-    "BurpSuite/Extensions.md",
-    "BurpSuite/Other Modules.md",
-    "BurpSuite/Intruder.md",
     "BurpSuite/Attachments",
-    "BurpSuite",
-    "Web Hacking/Attachments",
-    "Web Hacking"
+    "BurpSuite"
   ]
 }
