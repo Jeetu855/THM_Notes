@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
+                "file": "Metasploit/Meterpreter.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
+                "file": "Metasploit/Meterpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerability Research/Exploit Vulnerabilities.md",
+                "file": "Metasploit/Meterpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerability Research/Exploit Vulnerabilities.md"
+                "file": "Metasploit/Meterpreter.md"
               }
             }
           },
@@ -157,12 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72be607563718fad",
+  "active": "c47ad07be346af28",
   "lastOpenFiles": [
-    "Pasted image 20231001005749.png.md",
-    "Vulnerability Research/Exploit Vulnerabilities.md",
-    "Vulnerability Research/Vulnerabilities 101.md",
+    "Metasploit/Exploitation.md",
+    "Metasploit/Meterpreter.md",
     "Network Security/Protocols and Servers.md",
+    "Metasploit/Introduction.md",
+    "Vulnerability Research/Exploit Vulnerabilities.md",
+    "Metasploit",
+    "Pasted image 20231001005749.png.md",
+    "Vulnerability Research/Vulnerabilities 101.md",
     "Vulnerability Research",
     "Network Security/Attachments/ftp.png",
     "Network Security/Attachments/smtppop3imap.png",
@@ -196,13 +200,9 @@
     "BurpSuite/Extensions.md",
     "BurpSuite/Other Modules.md",
     "BurpSuite/Intruder.md",
-    "BurpSuite/Repeater.md",
-    "BurpSuite/Basics.md",
     "BurpSuite/Attachments",
-    "Web Hacking/SQL Injection.md",
     "BurpSuite",
     "Web Hacking/Attachments",
-    "Web Hacking",
-    "Pentesting Fundamentals"
+    "Web Hacking"
   ]
 }
