@@ -11,9 +11,11 @@
             "id": "c47ad07be346af28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Network Services/Attachments/Revershell.png"
+                "file": "Network Services/NFS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Services/Attachments/Revershell.png",
+                "file": "Network Services/NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Services/Attachments/Revershell.png",
+                "file": "Network Services/NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Services/Attachments/Revershell.png"
+                "file": "Network Services/NFS.md"
               }
             }
           },
@@ -157,9 +159,15 @@
   },
   "active": "72be607563718fad",
   "lastOpenFiles": [
+    "Network Services/SMTP.md",
+    "Network Services/MySQL.md",
+    "Network Services/NFS.md",
+    "Privilege Escalation/Linux Privilege Escalation.md",
+    "Privilege Escalation/What the Shell.md",
+    "Network Security/Protocols and Servers.md",
+    "Network Services/Attachments/Revershell.png",
     "Network Services/FTP.md",
     "Network Services/Telnet.md",
-    "Network Services/Attachments/Revershell.png",
     "Network Services/SMB.md",
     "Network Services/Attachments/SMB.png",
     "Network Services/Attachments",
@@ -169,15 +177,12 @@
     "Cryptography/Hashing.md",
     "Privilege Escalation/Windows Privilege Escalation.md",
     "Cryptography",
-    "Privilege Escalation/Linux Privilege Escalation.md",
     "Privilege Escalation/Attachments/stableShell.png",
-    "Privilege Escalation/What the Shell.md",
     "Metasploit/Introduction.md",
     "Metasploit/Meterpreter.md",
     "Metasploit/Exploitation.md",
     "Privilege Escalation/Attachments",
     "Privilege Escalation",
-    "Network Security/Protocols and Servers.md",
     "Vulnerability Research/Exploit Vulnerabilities.md",
     "Metasploit",
     "Pasted image 20231001005749.png.md",
@@ -197,9 +202,6 @@
     "Network Security/Nmap Basic Ports Scan.md",
     "Network Security/Active Reconnaissance.md",
     "Web Hacking/Command Injection.md",
-    "Web Hacking/XSS.md",
-    "Web Hacking/SSRF.md",
-    "Web Hacking/File Inclusion.md",
     "Shodan/Attachments",
     "Shodan",
     "Network Security/Attachments"
