@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dcafdac709b86c9",
+        "id": "b3023319e5850df4",
         "type": "tabs",
         "children": [
           {
-            "id": "c47ad07be346af28",
+            "id": "8b3dc154a6a51042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Services/NFS.md",
+                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Services/NFS.md",
+                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Services/NFS.md",
+                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Services/NFS.md"
+                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md"
               }
             }
           },
@@ -159,51 +159,51 @@
   },
   "active": "72be607563718fad",
   "lastOpenFiles": [
+    "OWASP Top 10/9) Components With Known Vulnerabilities.md",
+    "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
+    "OWASP Top 10/8) Insecure Deserialization.md",
+    "Network Security/Nmap Live Host Discovery.md",
+    "Network Security/Nmap Basic Ports Scan.md",
+    "Network Security/Nmap Advanced Port Scans.md",
+    "Network Security/Nmap Post Port Scans.md",
+    "Privilege Escalation/Linux Privilege Escalation.md",
+    "OWASP Top 10/Attachments/serialization&deserialization.png",
+    "OWASP Top 10/4) XML External Entity(XXE).md",
+    "Web Hacking/SQL Injection.md",
+    "Vulnerability Research/Exploit Vulnerabilities.md",
+    "Vulnerability Research/Vulnerabilities 101.md",
+    "Pentesting Fundamentals/Pentesting.md",
+    "Network Services/SMB.md",
+    "Network Services/Telnet.md",
+    "Network Services/FTP.md",
+    "Network Services/NFS.md",
     "Network Services/SMTP.md",
     "Network Services/MySQL.md",
-    "Network Services/NFS.md",
-    "Privilege Escalation/Linux Privilege Escalation.md",
+    "OWASP Top 10/Attachments/IDOR.png",
+    "OWASP Top 10/Attachments/XXE.png",
+    "OWASP Top 10/7) Cross Site Scripting(XSS).md",
+    "OWASP Top 10/6) Security Misconfiguration.md",
+    "OWASP Top 10/5) Broken Access Control.md",
+    "OWASP Top 10/Attachments/BrokenAuth.png",
+    "OWASP Top 10/Attachments/commandInjection.png",
+    "OWASP Top 10/3) Sensitive Data Exposure.md",
+    "OWASP Top 10/2) Broken Authentication.md",
+    "OWASP Top 10/1) Injection.md",
+    "OWASP Top 10/Attachments",
+    "OWASP Top 10",
     "Privilege Escalation/What the Shell.md",
-    "Network Security/Protocols and Servers.md",
     "Network Services/Attachments/Revershell.png",
-    "Network Services/FTP.md",
-    "Network Services/Telnet.md",
-    "Network Services/SMB.md",
     "Network Services/Attachments/SMB.png",
     "Network Services/Attachments",
-    "Cryptography/Encryption.md",
     "Network Services",
-    "Cryptography/John The Ripper.md",
-    "Cryptography/Hashing.md",
-    "Privilege Escalation/Windows Privilege Escalation.md",
     "Cryptography",
     "Privilege Escalation/Attachments/stableShell.png",
-    "Metasploit/Introduction.md",
-    "Metasploit/Meterpreter.md",
-    "Metasploit/Exploitation.md",
     "Privilege Escalation/Attachments",
     "Privilege Escalation",
-    "Vulnerability Research/Exploit Vulnerabilities.md",
     "Metasploit",
-    "Pasted image 20231001005749.png.md",
-    "Vulnerability Research/Vulnerabilities 101.md",
     "Vulnerability Research",
     "Network Security/Attachments/ftp.png",
     "Network Security/Attachments/smtppop3imap.png",
-    "Network Security/Attachments/sslhandshake.png",
-    "Network Security/Attachments/tls.png",
-    "Network Security/Attachments/mitm.png",
-    "Network Security/Attachments/ciaDAD.png",
-    "Network Security/Attachments/mail.png",
-    "Network Security/Protocols and Servers 2.md",
-    "Network Security/Nmap Post Port Scans.md",
-    "Network Security/Nmap Advanced Port Scans.md",
-    "Network Security/Nmap Live Host Discovery.md",
-    "Network Security/Nmap Basic Ports Scan.md",
-    "Network Security/Active Reconnaissance.md",
-    "Web Hacking/Command Injection.md",
-    "Shodan/Attachments",
-    "Shodan",
-    "Network Security/Attachments"
+    "Shodan/Attachments"
   ]
 }
