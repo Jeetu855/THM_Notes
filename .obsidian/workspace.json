@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
+                "file": "Privesc/Common Linux Privesc.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
+                "file": "Privesc/Common Linux Privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
+                "file": "Privesc/Common Linux Privesc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP Top 10/10) Insufficient Logging and Monitoring.md"
+                "file": "Privesc/Common Linux Privesc.md"
               }
             }
           },
@@ -159,13 +159,27 @@
   },
   "active": "72be607563718fad",
   "lastOpenFiles": [
-    "OWASP Top 10/9) Components With Known Vulnerabilities.md",
-    "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
-    "OWASP Top 10/8) Insecure Deserialization.md",
-    "Network Security/Nmap Live Host Discovery.md",
+    "Network Services/MySQL.md",
+    "Privesc/Common Linux Privesc.md",
+    "Privesc",
+    "Network Services/SMTP.md",
+    "Network Services/NFS.md",
+    "Network Services/FTP.md",
+    "Network Services/Telnet.md",
+    "Network Services/SMB.md",
     "Network Security/Nmap Basic Ports Scan.md",
+    "Network Security/Nmap Live Host Discovery.md",
+    "Network Security/Active Reconnaissance.md",
+    "Network Security/Passive Reconnaissance.md",
+    "Network Security/Protocols and Servers.md",
     "Network Security/Nmap Advanced Port Scans.md",
     "Network Security/Nmap Post Port Scans.md",
+    "BurpSuite/Intruder.md",
+    "BurpSuite/Extensions.md",
+    "BurpSuite/Other Modules.md",
+    "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
+    "OWASP Top 10/9) Components With Known Vulnerabilities.md",
+    "OWASP Top 10/8) Insecure Deserialization.md",
     "Privilege Escalation/Linux Privilege Escalation.md",
     "OWASP Top 10/Attachments/serialization&deserialization.png",
     "OWASP Top 10/4) XML External Entity(XXE).md",
@@ -173,25 +187,12 @@
     "Vulnerability Research/Exploit Vulnerabilities.md",
     "Vulnerability Research/Vulnerabilities 101.md",
     "Pentesting Fundamentals/Pentesting.md",
-    "Network Services/SMB.md",
-    "Network Services/Telnet.md",
-    "Network Services/FTP.md",
-    "Network Services/NFS.md",
-    "Network Services/SMTP.md",
-    "Network Services/MySQL.md",
     "OWASP Top 10/Attachments/IDOR.png",
     "OWASP Top 10/Attachments/XXE.png",
-    "OWASP Top 10/7) Cross Site Scripting(XSS).md",
-    "OWASP Top 10/6) Security Misconfiguration.md",
-    "OWASP Top 10/5) Broken Access Control.md",
     "OWASP Top 10/Attachments/BrokenAuth.png",
     "OWASP Top 10/Attachments/commandInjection.png",
-    "OWASP Top 10/3) Sensitive Data Exposure.md",
-    "OWASP Top 10/2) Broken Authentication.md",
-    "OWASP Top 10/1) Injection.md",
     "OWASP Top 10/Attachments",
     "OWASP Top 10",
-    "Privilege Escalation/What the Shell.md",
     "Network Services/Attachments/Revershell.png",
     "Network Services/Attachments/SMB.png",
     "Network Services/Attachments",
@@ -203,7 +204,6 @@
     "Metasploit",
     "Vulnerability Research",
     "Network Security/Attachments/ftp.png",
-    "Network Security/Attachments/smtppop3imap.png",
-    "Shodan/Attachments"
+    "Network Security/Attachments/smtppop3imap.png"
   ]
 }
