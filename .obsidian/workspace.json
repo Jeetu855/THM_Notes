@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privesc/Common Linux Privesc.md",
+                "file": "Malware Analysis/x86 Architechture Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privesc/Common Linux Privesc.md",
+                "file": "Malware Analysis/x86 Architechture Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privesc/Common Linux Privesc.md",
+                "file": "Malware Analysis/x86 Architechture Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privesc/Common Linux Privesc.md"
+                "file": "Malware Analysis/x86 Architechture Overview.md"
               }
             }
           },
@@ -157,10 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72be607563718fad",
+  "active": "8b3dc154a6a51042",
   "lastOpenFiles": [
-    "Network Services/MySQL.md",
+    "Malware Analysis/Attachments/Pasted image 20231113015937.png",
+    "Malware Analysis/Attachments/Pasted image 20231113015035.png",
+    "Malware Analysis/Attachments/Pasted image 20231113010915.png",
+    "Malware Analysis/Attachments/Pasted image 20231113001020.png",
+    "Malware Analysis/Attachments",
     "Privesc/Common Linux Privesc.md",
+    "Malware Analysis/x86 Architechture Overview.md",
+    "Malware Analysis",
+    "Network Services/MySQL.md",
     "Privesc",
     "Network Services/SMTP.md",
     "Network Services/NFS.md",
@@ -185,8 +192,6 @@
     "OWASP Top 10/4) XML External Entity(XXE).md",
     "Web Hacking/SQL Injection.md",
     "Vulnerability Research/Exploit Vulnerabilities.md",
-    "Vulnerability Research/Vulnerabilities 101.md",
-    "Pentesting Fundamentals/Pentesting.md",
     "OWASP Top 10/Attachments/IDOR.png",
     "OWASP Top 10/Attachments/XXE.png",
     "OWASP Top 10/Attachments/BrokenAuth.png",
@@ -198,12 +203,7 @@
     "Network Services/Attachments",
     "Network Services",
     "Cryptography",
-    "Privilege Escalation/Attachments/stableShell.png",
     "Privilege Escalation/Attachments",
-    "Privilege Escalation",
-    "Metasploit",
-    "Vulnerability Research",
-    "Network Security/Attachments/ftp.png",
-    "Network Security/Attachments/smtppop3imap.png"
+    "Privilege Escalation"
   ]
 }
