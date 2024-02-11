@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware Analysis/x86 Architechture Overview.md",
+                "file": "Practice Rooms/SSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware Analysis/x86 Architechture Overview.md",
+                "file": "Practice Rooms/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware Analysis/x86 Architechture Overview.md",
+                "file": "Practice Rooms/SSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware Analysis/x86 Architechture Overview.md"
+                "file": "Practice Rooms/SSRF.md"
               }
             }
           },
@@ -136,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,21 +161,30 @@
   },
   "active": "8b3dc154a6a51042",
   "lastOpenFiles": [
+    "Practice Rooms/Attachments/ssrf.png",
+    "Practice Rooms/SSRF.md",
+    "Practice Rooms/Attachments/Pasted image 20240211200945.png",
+    "Practice Rooms/Attachments/Pasted image 20240211200818.png",
+    "Practice Rooms/Attachments",
+    "Malware Analysis/x86 Architechture Overview.md",
+    "Practice Rooms",
+    "Malware Analysis/Binary Exploitation.md",
+    "Privesc/Common Linux Privesc.md",
+    "Network Services/FTP.md",
+    "Network Services/NFS.md",
+    "Network Services/SMTP.md",
+    "Network Services/MySQL.md",
+    "Network Services/Telnet.md",
+    "Network Services/SMB.md",
+    "Metasploit/Introduction.md",
+    "Cryptography/John The Ripper.md",
     "Malware Analysis/Attachments/Pasted image 20231113015937.png",
     "Malware Analysis/Attachments/Pasted image 20231113015035.png",
     "Malware Analysis/Attachments/Pasted image 20231113010915.png",
     "Malware Analysis/Attachments/Pasted image 20231113001020.png",
     "Malware Analysis/Attachments",
-    "Privesc/Common Linux Privesc.md",
-    "Malware Analysis/x86 Architechture Overview.md",
     "Malware Analysis",
-    "Network Services/MySQL.md",
     "Privesc",
-    "Network Services/SMTP.md",
-    "Network Services/NFS.md",
-    "Network Services/FTP.md",
-    "Network Services/Telnet.md",
-    "Network Services/SMB.md",
     "Network Security/Nmap Basic Ports Scan.md",
     "Network Security/Nmap Live Host Discovery.md",
     "Network Security/Active Reconnaissance.md",
@@ -187,23 +198,13 @@
     "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
     "OWASP Top 10/9) Components With Known Vulnerabilities.md",
     "OWASP Top 10/8) Insecure Deserialization.md",
-    "Privilege Escalation/Linux Privilege Escalation.md",
     "OWASP Top 10/Attachments/serialization&deserialization.png",
-    "OWASP Top 10/4) XML External Entity(XXE).md",
-    "Web Hacking/SQL Injection.md",
-    "Vulnerability Research/Exploit Vulnerabilities.md",
     "OWASP Top 10/Attachments/IDOR.png",
     "OWASP Top 10/Attachments/XXE.png",
-    "OWASP Top 10/Attachments/BrokenAuth.png",
-    "OWASP Top 10/Attachments/commandInjection.png",
     "OWASP Top 10/Attachments",
     "OWASP Top 10",
-    "Network Services/Attachments/Revershell.png",
-    "Network Services/Attachments/SMB.png",
     "Network Services/Attachments",
     "Network Services",
-    "Cryptography",
-    "Privilege Escalation/Attachments",
-    "Privilege Escalation"
+    "Cryptography"
   ]
 }
