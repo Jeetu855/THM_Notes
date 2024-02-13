@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Rooms/HTTP Request Smuggling.md",
+                "file": "Practice Rooms/File Inclusion & Path Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Rooms/HTTP Request Smuggling.md",
+                "file": "Practice Rooms/File Inclusion & Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Rooms/HTTP Request Smuggling.md",
+                "file": "Practice Rooms/File Inclusion & Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Rooms/HTTP Request Smuggling.md"
+                "file": "Practice Rooms/File Inclusion & Path Traversal.md"
               }
             }
           },
@@ -161,6 +161,10 @@
   },
   "active": "8b3dc154a6a51042",
   "lastOpenFiles": [
+    "Practice Rooms/Attachments/fileInclusion2.png",
+    "Practice Rooms/Attachments/fileInclusion1.png",
+    "Practice Rooms/File Inclusion & Path Traversal.md",
+    "Practice Rooms/HTTP Request Smuggling.md",
     "Practice Rooms/Attachments/httprs7.png",
     "Practice Rooms/Attachments/httprs6.png",
     "Practice Rooms/Attachments/httprs5.png",
@@ -168,11 +172,8 @@
     "Practice Rooms/Attachments/httprs3.png",
     "Practice Rooms/Attachments/httprs2.png",
     "Practice Rooms/Attachments/HTTPRS1.png",
-    "Practice Rooms/HTTP Request Smuggling.md",
     "Practice Rooms/SSRF.md",
     "Practice Rooms/Attachments/ssrf.png",
-    "Practice Rooms/Attachments/Pasted image 20240211200945.png",
-    "Practice Rooms/Attachments/Pasted image 20240211200818.png",
     "Practice Rooms/Attachments",
     "Malware Analysis/x86 Architechture Overview.md",
     "Practice Rooms",
@@ -200,7 +201,6 @@
     "BurpSuite/Extensions.md",
     "BurpSuite/Other Modules.md",
     "OWASP Top 10/10) Insufficient Logging and Monitoring.md",
-    "OWASP Top 10/9) Components With Known Vulnerabilities.md",
     "OWASP Top 10/Attachments",
     "OWASP Top 10",
     "Network Services/Attachments",
