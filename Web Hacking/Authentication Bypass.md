@@ -1,6 +1,6 @@
 
 
-1) **Username Enumberation**
+1) **Username Enumeration**
 
 Website error messages are great resources for collating this information to build our list of valid usernames.
 
